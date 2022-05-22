@@ -28,7 +28,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.root_async
+        package: cz.filiprysavy.root_async
         pluginClass: RootAsyncPlugin
 
   # To add assets to your plugin package, add an assets section, like this:

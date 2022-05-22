@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.root_async_example">
+    package="cz.filiprysavy.root_async_example">
    <application
         android:label="root_async_example"
         android:name="${applicationName}"

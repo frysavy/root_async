@@ -1,4 +1,4 @@
-package com.example.root_async_example
+package cz.filiprysavy.root_async_example
 
 import io.flutter.embedding.android.FlutterActivity
 
