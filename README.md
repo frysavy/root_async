@@ -6,6 +6,6 @@ Plugin inspirated by https://pub.dev/packages/root
 
 ## Getting Started
 
-###
+<pre>
     import 'package:root_async/root_async.dart';
-###
+</pre>

@@ -1,6 +1,6 @@
 name: root_async
-description: Root Async Executor
-version: 0.0.2
+description: Flutter plugin for android device, true async command for long-term operation in shell
+version: 0.0.3
 homepage: https://github.com/frysavy/root_async
 
 environment:
